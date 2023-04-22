@@ -35,5 +35,5 @@ ___This Tool is Free Enjoy Dear User.___</br>
 ## SCREENSHOT :
 <br>
 <p align="center">
-<img src="__scr__/Fire1.jpg"/>
+<img src="__scr__/Fire2.jpg"/>
 </p>
